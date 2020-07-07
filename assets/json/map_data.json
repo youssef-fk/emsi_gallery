@@ -1,0 +1,80 @@
+{
+	"cities": [
+		{
+			"name": "Casablanca",
+			"sites": [
+				{
+					"name": "Centre",
+					"coords": {
+						"latitude": 33.589446,
+						"longitude": -7.606107
+					}
+				},
+				{
+					"name": "Orangers",
+					"coords": {
+						"latitude": 33.54151,
+						"longitude": -7.673546
+					}
+				},
+				{
+					"name": "Maarif",
+					"coords": {
+						"latitude": 33.583693,
+						"longitude": -7.641773
+					}
+				}
+			]
+		},
+		{
+			"name": "Rabat",
+			"sites": [
+				{
+					"name": "Agdal",
+					"coords": {
+						"latitude": 33.996836,
+						"longitude": -6.851046
+					}
+				},
+				{
+					"name": "Bouregrag",
+					"coords": {
+						"latitude": 34.02418,
+						"longitude": -6.826899
+					}
+				},
+				{
+					"name": "Hassan",
+					"coords": {
+						"latitude": 34.016002,
+						"longitude": -6.829323
+					}
+				}
+			]
+		},
+		{
+			"name": "Marrakech",
+			"sites": [
+				{
+					"name": "Marrakech",
+					"coords": {
+						"latitude": 31.653423,
+						"longitude": -8.021353
+					}
+				}
+			]
+		},
+		{
+			"name": "Tanger",
+			"sites": [
+				{
+					"name": "Tanger",
+					"coords": {
+						"latitude": 35.777309,
+						"longitude": -5.802065
+					}
+				}
+			]
+		}
+	]
+}

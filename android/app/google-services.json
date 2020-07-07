@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78203783966",
+    "firebase_url": "https://emsi-gallery.firebaseio.com",
+    "project_id": "emsi-gallery",
+    "storage_bucket": "emsi-gallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78203783966:android:b27d1e77d9350a7602170f",
+        "android_client_info": {
+          "package_name": "com.example.emsi_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78203783966-tmfu657q3enmp96k87bhvkoflngbt1d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpyOcolqk_dTsBWQElWTLUQY8CxkAR1X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78203783966-tmfu657q3enmp96k87bhvkoflngbt1d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

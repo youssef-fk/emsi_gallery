@@ -1,0 +1,16 @@
+Casablanca:
+    Centre: 33.589446, -7.606107
+    Orangers: 33.541510, -7.673546
+    Maarif: 33.583693, -7.641773
+    
+Rabat:
+    Bouregrag: 34.024180, -6.826899
+    Agdal: 33.996836, -6.851046
+    Hassan: 34.016002, -6.829323
+    
+Marrakech:
+    Marrakech: 31.653423, -8.021353
+        
+Tanger:
+    Tanger: 35.777309, -5.802065
+    
